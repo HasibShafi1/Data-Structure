@@ -14,9 +14,8 @@ This repository contains my solutions to various Data Structure problems using d
 - Sorting & Searching
 
 ## 🚀 Languages Used
-- C++
-- Python
-- Java
+- C
+
 
 ## ✍️ How to Use
 Each folder represents a topic and contains problem-wise code files. Most files are self-contained with problem links and brief explanations as comments.
